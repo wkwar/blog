@@ -1,0 +1,8 @@
+{"level":"INFO","time":"2023-03-16T17:02:59.823+0800","caller":"logger/logger.go:50","msg":"init logger success"}
+{"level":"INFO","time":"2023-03-16T17:02:59.852+0800","caller":"logger/logger_test.go:24","msg":"测试，Infof模式:111"}
+{"level":"INFO","time":"2023-03-16T17:04:37.338+0800","caller":"logger/logger.go:50","msg":"init logger success"}
+{"level":"INFO","time":"2023-03-16T17:04:37.367+0800","caller":"logger/logger_test.go:27","msg":"测试，Infof模式:111"}
+{"level":"DEBUG","time":"2023-03-16T17:04:37.367+0800","caller":"logger/logger_test.go:28","msg":"测试Debud模式sucess"}
+{"level":"INFO","time":"2023-03-16T17:04:57.728+0800","caller":"logger/logger.go:50","msg":"init logger success"}
+{"level":"INFO","time":"2023-03-16T17:04:57.755+0800","caller":"logger/logger_test.go:27","msg":"测试，Infof模式:111"}
+{"level":"DEBUG","time":"2023-03-16T17:04:57.756+0800","caller":"logger/logger_test.go:28","msg":"测试Debud模式sucess"}
